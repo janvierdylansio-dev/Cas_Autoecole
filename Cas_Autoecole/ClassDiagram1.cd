@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cas_Autoecole.Eleve">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAACACIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Eleve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cas_Autoecole.lecon">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEAAAAAAAAAAAAABAAAAIAAAAASAA=</HashCode>
+      <FileName>Lecon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="elv" />
+      <Field Name="vhc" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Cas_Autoecole.Vehicule">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAgAAAAAAAAGAAAAAAAAAAAAAAgAAAAAAgAIAAg=</HashCode>
+      <FileName>Vehicule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

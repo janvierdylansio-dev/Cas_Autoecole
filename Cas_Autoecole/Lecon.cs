@@ -19,7 +19,9 @@
         }
 
         public override string ToString()
-        { return $"{dateLecon}"; }
+        { return $"{dateLecon} {heureLecon} {effectuer} "; }
+
+  
        
 
 
