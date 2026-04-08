@@ -8,4 +8,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+<<<<<<< HEAD
+  <ItemGroup>
+    <ProjectReference Include="..\Cas_Autoecole\Cas_Autoecole.csproj" />
+  </ItemGroup>
+
+=======
+>>>>>>> 6ebb0e31ae27bf7d6e3fa844b3d83e01a81fcc7d
 </Project>
